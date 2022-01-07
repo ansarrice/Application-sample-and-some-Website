@@ -1,3 +1,7 @@
+My name is Ansar Anwar. I am an Uyghur form China Xinjiang, I am seeking for 2022 summer SDE intern. Master Student of Computer Science at Rice University, and graduated from Central South University in China with a bachelor's degree in computer science and technology. I Won the highest honor of Central South University, Central South University Students of the 2018 Year. Proficient in Java web development, C++ programming, and Data visualization. I believe I am a very persevering person.
+
+About awards: https://www.sohu.com/a/301049807_407274
+
 # Application-sample-and-some-Website
 2021 Year:
 
