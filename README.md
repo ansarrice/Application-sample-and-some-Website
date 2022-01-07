@@ -5,7 +5,7 @@ Social application With Server : https://aa171asocial.surge.sh/
 
 Online Chatapplication:https://chatapp-final-team-achat.herokuapp.com/Page/Main.html 
 
-Online Pacman Application: https://pacman-final-team-ai.herokuapp.comhttp:// 
+Online Pacman Application: https://pacman-final-team-ai.herokuapp.com
 
 Online Game Without Server: https://airwaraa171.surge.sh/
 
