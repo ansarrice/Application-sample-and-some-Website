@@ -6,6 +6,7 @@ About awards: https://www.sohu.com/a/301049807_407274
 2022 Year:
 
 Epidemic data query Android application, including U.S. and world epidemic data. you can check the epidemic danger level in your area.
+
 ![image](https://user-images.githubusercontent.com/86660477/162501966-28256853-b017-4195-aebb-709d88945336.png)
 ![image](https://user-images.githubusercontent.com/86660477/162502020-f56f1701-e4a8-4ed2-aa0e-fcd1cd225844.png)
 ![image](https://user-images.githubusercontent.com/86660477/162502101-caf782b5-3b77-42b7-8415-7649d3dfc8d3.png)
