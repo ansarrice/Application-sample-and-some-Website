@@ -10,6 +10,8 @@ Epidemic data query Android application, including U.S. and world epidemic data.
 ![image](https://user-images.githubusercontent.com/86660477/162501966-28256853-b017-4195-aebb-709d88945336.png)
 ![image](https://user-images.githubusercontent.com/86660477/162502020-f56f1701-e4a8-4ed2-aa0e-fcd1cd225844.png)
 ![image](https://user-images.githubusercontent.com/86660477/162502101-caf782b5-3b77-42b7-8415-7649d3dfc8d3.png)
+![image](https://user-images.githubusercontent.com/86660477/163508307-3b63ccc5-432a-457e-a240-afc8fc995398.png)
+
 
 
 2021 Year:
